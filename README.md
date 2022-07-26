@@ -1,2 +1,2 @@
 # Git-trial
-Learning Git
+My Git and Github learning trials
